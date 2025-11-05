@@ -1,0 +1,16 @@
+name: expr-eval-secure
+id: ari:cloud:compass:a6cfc8fc-276a-46ca-bc5d-9ef8e2c0e25b:component/b30eb84a-9cc3-47a4-b92a-9331bfc390fa/445bb723-fd84-498a-bc60-3ced42d89df0
+description: Mathematical expression evaluator in JavaScript
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/orchestrated-io/expr-eval-secure
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
